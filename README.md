@@ -2,7 +2,7 @@
 
 This dashboard provides key insights into our workforce metrics, enabling data-driven HR decisions.
 
-![Dashboard Screenshot](your-screenshot-or-gif-link.png)
+![Dashboard Screenshot](https://github.com/AbhayBharti96/HR-Analytics-Dashboard-/blob/main/Screenshot%202025-02-09%20021636.png)
 
 ## Key Highlights:
 
