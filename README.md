@@ -20,12 +20,10 @@ This dashboard provides key insights into our workforce metrics, enabling data-d
 
 ## Built With:
 
-* Power BI (Example, change to your software)
-* Data from company HR Database.
+* Tableau
+* Data from Kaggle.
 
-## How to Use:
 
-(Add instructions if applicable)
 
 ## Let's Connect!
 
